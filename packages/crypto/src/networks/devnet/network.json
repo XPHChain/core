@@ -1,18 +1,18 @@
 {
-    "name": "devnet",
-    "messagePrefix": "DARK message:\n",
-    "bip32": {
-        "public": 46090600,
-        "private": 46089520
-    },
-    "pubKeyHash": 30,
-    "nethash": "2a44f340d76ffc3df204c5f38cd355b7496c9065a1ade2ef92071436bd72e867",
-    "wif": 170,
-    "slip44": 1,
-    "aip20": 1,
-    "client": {
-        "token": "DARK",
-        "symbol": "DѦ",
-        "explorer": "https://dexplorer.ark.io"
-    }
+  "name": "devnet",
+  "messagePrefix": "XPH message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 90,
+  "nethash": "9454b9701c778e7af3c7370ebba02feb4928a08d127eb6b09f6c23aac421b49f",
+  "wif": 168,
+  "slip44": 1,
+  "aip20": 1,
+  "client": {
+    "token": "XPH",
+    "symbol": "XPH",
+    "explorer": "http://0.0.0.0:4200"
+  }
 }
